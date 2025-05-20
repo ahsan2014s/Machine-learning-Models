@@ -1,6 +1,6 @@
 # Traditional Machine Learning Models
 
-This repository contains optimized implementations of several foundational **traditional machine learning algorithms**. These models are essential building blocks for statistical pattern recognition and are widely used across various domains such as natural language processing, bioinformatics, and finance.
+This repository contains optimized implementations of several foundational **traditional machine learning algorithms**. These models are essential building blocks for statistical pattern recognition and are widely used across various domains such as natural language processing, bioinformatics, and finance. Traditional ML models works best on structured data. They provide intuitions for Deep learning models as a baseline model while analyzing structured data. All the models and their accuracy tested on Irish datasset.
 
 ## 📦 Models Included
 

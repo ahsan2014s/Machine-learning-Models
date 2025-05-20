@@ -58,4 +58,4 @@ A statistical model for sequential data, where the system is modeled as a Markov
 
 ## 🛠️ Download
 
-_Open with google colab_
+_After copying the repository, unzip, go to google colab, open with google colab_
